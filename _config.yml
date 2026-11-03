@@ -29,7 +29,10 @@ github_username:  shibaOSINT
 linkedin_username: mathieu-gaucheler
 
 # Build settings
-remote_theme: jekyll/minima@v3.0.0
+#remote_theme: jekyll/minima@v3.0.0
+remote_theme: jekyll/minima
+
+#theme: minima
 
 minima:
   skin: dark
@@ -37,6 +40,7 @@ minima:
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
