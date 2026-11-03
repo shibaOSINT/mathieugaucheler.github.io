@@ -4,15 +4,15 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hello there 👋 My name is [Mathieu Gaucheler](https://www.linkedin.com/in/mathieu-gaucheler), I am an OSINT practitioner and enthusiast. This blog is here to store my 
+investigations which can range from gaming online casinos, disinformation, internet infrastructure to geolocating FPV 
+drone footage. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Feel free to have a look around!
 
 
-[jekyll-organization]: https://github.com/jekyll
+<div style="text-align: center;">
+  <img src="{{ '/medias/profile_pic_rounded_2.png' | relative_url }}"
+       alt="That's me!"
+       style="width: 400px; max-width: 100%; height: auto; display: inline-block;">
+</div>
