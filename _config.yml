@@ -25,7 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/mathieugaucheler.github.io/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: shibasec
-github_username:  shibaOSINT
+github_username: shibaOSINT
 linkedin_username: mathieu-gaucheler
 
 # Build settings
@@ -36,6 +36,18 @@ remote_theme: jekyll/minima
 
 minima:
   skin: dark
+  social_links:
+    - title: GitHub
+      icon: github
+      url: "https://github.com/shibaOSINT"
+
+    - title: LinkedIn
+      icon: linkedin
+      url: "https://www.linkedin.com/in/mathieu-gaucheler/"
+
+    - title: X
+      icon: x-twitter
+      url: "https://x.com/shibasec"
 
 plugins:
   - jekyll-feed
