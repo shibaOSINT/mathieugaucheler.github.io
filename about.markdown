@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hello there 👋 My name is [Mathieu Gaucheler](https://www.linkedin.com/in/mathieu-gaucheler), I am an OSINT practitioner and enthusiast. This blog is here to store my 
+Hello there 👋 My name is [Mathieu Gaucheler](https://www.linkedin.com/in/mathieu-gaucheler), I am an OSINT enthusiast and practitioner based in Amsterdam (NL) . This blog is here to store my 
 investigations which can range from gaming online casinos, disinformation, internet infrastructure to geolocating FPV 
 drone footage. 
 

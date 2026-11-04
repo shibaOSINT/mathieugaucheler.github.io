@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "Outside contribution"
+title: "Outside contributions"
 permalink: /outside/
 ---
 
-Here is a list of blog posts and reports I have authored or that I helped research but are not hosted here:
+Here is a list of blog posts and reports I have authored or that I helped research:
 
 ##### [The Networks Behind the Headlines](https://www.maltego.com/blog/the-networks-behind-the-headlines/)
 Investigating fake "independent journalist" websites set up by Republican PAC ahead of the 2026 midterms.
