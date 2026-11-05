@@ -99,3 +99,85 @@
   color: #777;
   text-align: center;
 }
+
+.image-compare {
+  margin: 1.25rem 0;
+}
+
+.image-compare__stage {
+  position: relative;
+  width: 100%;
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.image-compare__stage img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.image-compare__second {
+  position: absolute;
+  inset: 0;
+  opacity: 0;
+}
+
+.image-compare__control {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  max-width: 700px;
+  margin: 0.75rem auto 0;
+}
+
+.image-compare__slider {
+  flex: 1;
+}
+
+.post-layout {
+  display: block;
+  position: relative;
+}
+
+.post-toc {
+  display: none;
+}
+
+@media screen and (min-width: 1200px) {
+  .post-toc {
+    display: block;
+    position: fixed;
+    top: 120px;
+    left: max(20px, calc((100vw - 1100px) / 2 - 220px));
+    width: 200px;
+    max-height: calc(100vh - 150px);
+    overflow-y: auto;
+    font-size: 0.85rem;
+  }
+
+  .post-toc h2 {
+    font-size: 1.1rem;
+    margin-top: 0;
+  }
+
+  .post-toc ul {
+    list-style: none;
+    margin-left: 0;
+  }
+
+  .post-toc li {
+    margin-bottom: 0.4rem;
+  }
+
+  .post-toc ul ul {
+    margin-left: 1rem;
+  }
+}
+
+/* Keep headings visible below any sticky site header */
+.post-content h2,
+.post-content h3,
+.post-content h4 {
+  scroll-margin-top: 6rem;
+}
