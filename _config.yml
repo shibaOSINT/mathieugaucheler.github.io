@@ -28,6 +28,7 @@ twitter_username: shibasec
 github_username: shibaOSINT
 linkedin_username: mathieu-gaucheler
 medium_username: shibaosint
+bluesky_username: shibasec.bsky.social
 
 # Build settings
 #remote_theme: jekyll/minima@v3.0.0
@@ -53,6 +54,10 @@ minima:
     - title: Medium
       icon: medium
       url: "https://medium.com/@shibaosint"
+
+    - title: Bluesky
+      icon: bluesky
+      url: "https://bsky.app/profile/shibasec.bsky.social"
 
 plugins:
   - jekyll-feed
