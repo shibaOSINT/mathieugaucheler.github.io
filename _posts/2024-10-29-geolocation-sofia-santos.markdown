@@ -14,7 +14,7 @@ This is a write-up for Sofia “Gralhix” Santos’ OSINT exercise #026. The go
  - What is the speed at which the train was traveling when the footage was recorded?
  - Approximately how far did the person travel overall?
 
-This goal of this article is to show you how to geolocate the places shown in each files, using different tools and methods. The files are sorted by difficulty, with each methods and locations listed in bold. After locating the files, we will focus on answering the questions.
+This goal of this article is to show you how to geolocate the places shown in each file, using different tools and methods. The files are sorted by difficulty, with each methods and locations listed in bold. After locating the files, we will focus on answering the questions.
 
 # Starting material
 
