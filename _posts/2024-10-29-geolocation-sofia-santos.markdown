@@ -50,7 +50,7 @@ This goal of this article is to show you how to geolocate the places shown in ea
 
 # Helva Art Café Shop — Easy
 
-### Method: Google Maps
+_Method: Google Maps_
 
 
 <div class="post-image">
@@ -77,7 +77,7 @@ Given the location where that picture was taken (pedestrian area) and the type o
 **Location of the picture: 41.326065, 69.265462.**
 
 # Chorsu Bazaar — Easy
-### Method: Reverse Image Search
+_Method: Reverse Image Search_
 
 <div class="post-image">
   <img
@@ -107,7 +107,7 @@ lamppost. The person was walking when taking the picture.
 **Location of the picture: 41.326295, 69.235048.**
 
 # Subway entrance — Medium
-### Method: Overpass Turbo
+_Method: Overpass Turbo_
 
 <div class="post-image">
   <img
@@ -163,7 +163,7 @@ Given that the picture was taken on a road, we can assume that the photograph wa
 **Location of the picture: 41.299362, 69.272522.**
 
 # View from the train — Hard
-### Method: Overpass Turbo + Suncalc
+_Method: Overpass Turbo + Suncalc_
 
 For this video, we need to think about the context: the images we are analyzing seem to be from someone’s camera roll. 
 They are titled like a digital camera would name images: incrementally. Thus, this video, _IMG_2677_, has been taken after 
@@ -277,7 +277,7 @@ Here are some element that are easy to spot from a satellite view that match the
 
 # Overpass — Hard
 
-### Method: Overpass Turbo
+_Method: Overpass Turbo_
 
 <div class="post-image">
   <img
