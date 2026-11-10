@@ -3,7 +3,7 @@ layout: post
 title:  "Bellingcat Challenges: Maritime Mysteries"
 date:   2025-01-06 17:54:57 +0100
 categories: Bellingcat_Challenges
-tags: [geolocation, OverpassTurbo, Suncalc]
+tags: [Geolocation, Yandex, ELA]
 ---
 
 Continuing this series of write-up explaining how to solve the OSINT challenges offered by Bellingcat for the end of 2024. The tools used are listed at the end of each section. I am not affiliated with Bellingcat. Please find the [write-up for the first week of exercise here]({% post_url 2024-12-20-Bellingcat-Challenges-Globetrotters %}).

@@ -3,7 +3,7 @@ layout: post
 title:  "Bellingcat Challenges: Bellingcat Globetrotters"
 date:   2024-12-20 17:54:57 +0100
 categories: Bellingcat_Challenges
-tags: [geolocation, Satellite Imagery, Suncalc, PeakVisor]
+tags: [Geolocation, Satellite Imagery, Suncalc, PeakVisor]
 ---
 
 
