@@ -190,3 +190,32 @@
 .post-content h4 {
   scroll-margin-top: 6rem;
 }
+
+.image-row-captioned {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: flex-start;
+  gap: 1.5rem;
+  margin: 1.25rem 0;
+}
+
+.image-row-captioned figure {
+  flex: 1 1 0;
+  min-width: 0;
+  margin: 0;
+  text-align: center;
+}
+
+.image-row-captioned img {
+  display: block;
+  width: 100%;
+  height: 300px;
+  object-fit: contain;
+}
+
+.image-row-captioned figcaption {
+  margin-top: 0.5rem;
+  font-size: 0.9rem;
+  color: #777;
+  text-align: center;
+}
