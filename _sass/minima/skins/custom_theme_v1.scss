@@ -1,0 +1,23 @@
+// Always use dark mode
+$color-scheme-auto: false;
+$color-scheme-dark: true;
+
+// Main palette
+$dm-background-color: #081221;
+// $dm-brand-color: #157145;
+$dm-brand-color: #EC9A29;
+$dm-link-base-color: #00A5CF;
+
+// Text colours
+$dm-heading-color: #E6EDF3;
+$dm-text-color: #C4D0DC;
+
+// Code blocks
+$dm-code-background-color: #101E31;
+
+// Link colours
+//$dm-link-visited-color: #00A5CF;
+//$dm-link-hover-color: #157145;
+
+// Load Minima's dark skin infrastructure
+@import "minima/skins/auto";
