@@ -22,8 +22,11 @@ title: Mathieu Gaucheler's website
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   A place to host my blogposts, focusing on OSINT and GeoINT.
-baseurl: "/mathieugaucheler.github.io/" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+#baseurl: "/mathieugaucheler.github.io/" # the subpath of your site, e.g. /blog
+#url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://mgaucheler.com"
+baseurl: ""
+
 twitter_username: shibasec
 github_username: shibaOSINT
 linkedin_username: mathieu-gaucheler
