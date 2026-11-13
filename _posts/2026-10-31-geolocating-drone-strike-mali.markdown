@@ -81,7 +81,7 @@ Analyzing the trajectory of the first drone, we can draw a rudimentary scene: th
 
 <div class="image-row image-row-captioned">
   <figure>
-    <img src="{{ 'medias/drone_strike_mali_FLA/drone 1.drawio.png' | relative_url }}" alt="">
+    <img src="{{ 'medias/drone_strike_mali_FLA/drone 1.drawio-newback.png' | relative_url }}" alt="">
     <figcaption>Mockup of drone #1 flight path</figcaption>
   </figure>
 
