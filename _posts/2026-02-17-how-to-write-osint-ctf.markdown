@@ -49,7 +49,7 @@ It is illusory to thing that having access to paid tools will not give an edge t
 - Paste website: [Pastebin](https://pastebin.com/), etc.
 - Organized leaked data: [OCCRP Aleph](https://aleph.occrp.org/) or the [Offshore Leaks](https://offshoreleaks.icij.org/).
 
-### **SOCMINT**
+### SOCMINT
 
 - Online service: [EPIEOS](https://epieos.com/).
 - Comand line tools: [Sherlock](https://github.com/sherlock-project/sherlock), [Holehe](https://github.com/megadose/holehe).

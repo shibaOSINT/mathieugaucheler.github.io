@@ -26,7 +26,7 @@ To corroborate that this is a military convoy, we can focus on the **licenses pl
 
 ## Where was the video taken?
 
-Looking at the video, a large monument with a golden apex can be seen in the background. By searching it on **Google Lens** and adding “mali” as a search keyword, we can establish that this structure is the _Monument de l’indépendance_ in Bamako (**2.6371, -8.00471**).
+Looking at the video, a large monument with a golden apex can be seen in the background. By searching it on **Google Lens** and adding “mali” as a search keyword, we can establish that this structure is the _Monument de l’indépendance_ in Bamako (**2.6371, -8.0047**).
 
 
 <div class="post-image">
