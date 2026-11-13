@@ -145,7 +145,7 @@ The position of the sun also matches our candidate: using footage from drone #1.
 
   <figure>
     <img src="{{ 'medias/drone_strike_mali_FLA/sun - 2 - suncal.png' | relative_url }}" alt="">
-    <figcaption>Suncal positioned where the frame was taken</figcaption>
+    <figcaption>Suncalc positioned where the frame was taken</figcaption>
   </figure>
 </div>
 
