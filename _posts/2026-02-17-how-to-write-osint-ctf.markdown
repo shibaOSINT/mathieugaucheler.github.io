@@ -54,12 +54,12 @@ It is illusory to thing that having access to paid tools will not give an edge t
 - Online service: [EPIEOS](https://epieos.com/).
 - Comand line tools: [Sherlock](https://github.com/sherlock-project/sherlock), [Holehe](https://github.com/megadose/holehe).
 
-### **Corporate registries**
+### Corporate registries
 
 - Country / state specific corporate registries: [Curaçao Chamber of Commerce](https://www2.curacao-chamber.com/companyselect.asp), [Company House](https://find-and-update.company-information.service.gov.uk/), etc.
 - Aggregators spanning multiple countries: [North Data](https://www.northdata.com/), [OpenCorporates](https://opencorporates.com/), etc.
 
-### **WHOIS registry**
+### WHOIS registry
 
 - Online services: [WHOXY](https://www.whoxy.com/), [who.is](https://who.is/), etc.
 

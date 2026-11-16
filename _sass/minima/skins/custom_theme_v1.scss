@@ -15,9 +15,35 @@ $dm-text-color: #C4D0DC;
 // Code blocks
 $dm-code-background-color: #101E31;
 
+
+
 // Link colours
 //$dm-link-visited-color: #00A5CF;
 //$dm-link-hover-color: #157145;
+
+
+
+// FONTS
+$base-font-family: "Inter", sans-serif;
+$base-font-size: 16px;
+$base-font-weight: 400;
+$base-line-height: 1.6;
+$code-font-family: "JetBrains Mono", monospace;
+
+// links at the tops of the page
+.nav-item {
+    font-family: Raleway;
+    font-size: 25px;
+}
+
+// Title
+
+.site-title {
+      font-family: Raleway;
+      font-size: 26px;
+}
+
+
 
 // Load Minima's dark skin infrastructure
 @import "minima/skins/auto";
