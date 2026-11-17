@@ -1,0 +1,24 @@
+---
+# example 404.md
+
+layout: base
+permalink: /404.html
+---
+
+<div style="text-align: center;">
+404
+</div>
+
+<br>
+
+<div style="text-align: center;">
+  <img src="{{ '/medias/charli.gif' | relative_url }}"
+       alt="That's me!"
+       style="width: 400px; max-width: 100%; height: auto; display: inline-block;">
+</div>
+
+<br>
+
+<div style="text-align: center;">
+Page not found!
+</div>
